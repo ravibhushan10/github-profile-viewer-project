@@ -1,0 +1,19 @@
+{
+  "name": "06react",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "<!-- Package.json -->\r What your project needs (dependencies).\r How to run your project (scripts).\r Basic details about your project (name, version, description).",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0",
+    "process": "^0.11.10"
+  },
+  "main": "index.js"
+}
